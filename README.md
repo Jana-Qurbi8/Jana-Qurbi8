@@ -1,22 +1,15 @@
-# Hi, I'm Jana 👋
+# Hi there 👋 I'm Jana
 
-Computer Science student at **Umm Al-Qura University (UQU)**, learning by building projects and sharing my work.
+🎓 Computer Science Student at **Umm Al-Qura University (UQU)**  
+🌱 Exploring different areas of computer science and discovering my interests  
+🚀 Learning by building small projects and sharing them here on GitHub  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jana-qurbi8)
 
-I'm exploring **data analysis with Python**, turning datasets into clear visualizations and useful answers to business questions.
+## Projects
 
-## Featured Projects
+A few projects from my learning journey:
 
-| Project | Focus | Tools |
-| --- | --- | --- |
-| [Stock & Revenue Dashboard](https://github.com/Jana-Qurbi8/IBM-Stock-Revenue-Dashboard) | Explore Tesla and GameStop stock prices and revenue | Python, yfinance, web scraping, Pandas, Matplotlib |
-| [Supermarket Sales Analysis](https://github.com/Jana-Qurbi8/supermarket-sales-analysis-pandas) | Explore supermarket sales data and answer business questions | Python, Pandas, Jupyter Notebook |
+- **[IBM Stock & Revenue Dashboard](https://github.com/Jana-Qurbi8/IBM-Stock-Revenue-Dashboard)** — A Python project exploring Tesla and GameStop stock prices and revenue.
+- **[Supermarket Sales Analysis](https://github.com/Jana-Qurbi8/supermarket-sales-analysis-pandas)** — A project using Python and Pandas to explore supermarket sales data.
 
-## Learning & Building
-
-- Explore and analyze data with Python and Pandas.
-- Communicate findings through visualizations.
-- Build small projects and document what I learn.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/jana-qurbi8)
+[Explore all my repositories →](https://github.com/Jana-Qurbi8?tab=repositories)
